@@ -4,10 +4,15 @@ FREE TOOL FOR EVERYONE
 
 # REQUIREMENTS
 > pip install telethon
+> 
 > pip install tg-bulk-sender
+> 
 > pip installkeyboard
+> 
 > pip install colorama
+> 
 > pip install pyfiglet
+> 
 > pip install requests
 
 
